@@ -5,3 +5,6 @@
 
 import math
 print(math.sin(2))
+print(2)
+a=input()
+print(a)
